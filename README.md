@@ -14,6 +14,7 @@ Link for the site and code is below
 # Screen Shots 
 > The website was developed for spread informations about the content of mobile app. So, i will show the most principals objectives of it.
 
+
 - Objectives
 
 ![Objectives](https://github.com/LivHelen12/Lumiere/blob/master/img/objetivos.png)
@@ -32,7 +33,6 @@ Link for the site and code is below
 - Contact us
 
 ![Contact us](https://github.com/LivHelen12/Lumiere/blob/master/img/contato.png)
-
 
 # Keep in Touch
 - https://www.linkedin.com/in/liviahelensilva/
