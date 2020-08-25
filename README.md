@@ -13,21 +13,21 @@ Link for the site and code is below
 # Screen Shots 
 > The website was developed for spread informations about the content of mobile app. So, i will show the most principals objectives of it.
 
-1. Objectives
+- Objectives
 
 ![Objectives](https://github.com/LivHelen12/Lumiere/blob/master/img/objetivos.png)
 
 
-2. Video
+- Video
 
 ![Video](https://github.com/LivHelen12/Lumiere/blob/master/img/video.png)
 
 
-3. How use the app
+- How use the app
 
 ![How use](https://github.com/LivHelen12/Lumiere/blob/master/img/utilizar.png)
 
 
-4. Contact us
+- Contact us
 
 ![Contact us](https://github.com/LivHelen12/Lumiere/blob/master/img/contato.png)
