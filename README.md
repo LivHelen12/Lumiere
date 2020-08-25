@@ -10,10 +10,6 @@ Link for the site and code is below
 
 ![Imagem Home](https://github.com/LivHelen12/Lumiere/blob/master/img/home.png)
 
-# Keep in Touch
-- https://www.linkedin.com/in/liviahelensilva/
-- https://github.com/LivHelen12
-- liviahelen025@gmail.com
 
 # Screen Shots 
 > The website was developed for spread informations about the content of mobile app. So, i will show the most principals objectives of it.
@@ -36,3 +32,10 @@ Link for the site and code is below
 - Contact us
 
 ![Contact us](https://github.com/LivHelen12/Lumiere/blob/master/img/contato.png)
+
+
+# Keep in Touch
+- https://www.linkedin.com/in/liviahelensilva/
+- https://github.com/LivHelen12
+- liviahelen025@gmail.com
+
