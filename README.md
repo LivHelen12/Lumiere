@@ -15,16 +15,19 @@ Link for the site and code is below
 
 1. Objectives
 
-![]()
+![Objectives](https://github.com/LivHelen12/Lumiere/blob/master/img/objetivos.png)
+
 
 2. Video
 
-![]()
+![Video](https://github.com/LivHelen12/Lumiere/blob/master/img/video.png)
+
 
 3. How use the app
 
-![]()
+![How use](https://github.com/LivHelen12/Lumiere/blob/master/img/utilizar.png)
+
 
 4. Contact us
 
-![]()
+![Contact us](https://github.com/LivHelen12/Lumiere/blob/master/img/contato.png)
