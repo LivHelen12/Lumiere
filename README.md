@@ -35,7 +35,7 @@ Link for the site and code is below
 ![Contact us](https://github.com/LivHelen12/Lumiere/blob/master/img/contato.png)
 
 # Keep in Touch
-- https://www.linkedin.com/in/liviahelensilva/
+- https://www.linkedin.com/in/livhelen12/
 - https://github.com/LivHelen12
 - liviahelen025@gmail.com
 
